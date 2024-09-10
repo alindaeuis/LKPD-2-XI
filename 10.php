@@ -3,7 +3,7 @@ function cekNilai($nama, $jawabanSiswa) {
   $jawabanBenar =  ["A", "D", "C", "C", "B", "A", "E", "B", "A", "E"];
 
   $jumlahBenar = 0;
-  $jumlahSalah = 0;~
+  $jumlahSalah = 0;
 
   $hasil = [];
 
